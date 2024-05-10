@@ -1,0 +1,8 @@
+#+TITLE: Saying
+file:https://img.shields.io/github/commit-activity/w/donjuanplatinum/saying?style=plastic&logoColor=yellow&color=blue
+
+** saying
+#+begin_src 
+  人生几多无奈 看似有解决之法 但临近关头 却又会做错误的决定
+#+end_src
+
