@@ -4,8 +4,12 @@
 ** saying
 #+begin_src 
   人生几多无奈 看似有解决之法 但临近关头 却又会做错误的决定
+  
 #+end_src
 
+#+begin_src
+  人生不就是这样的吗 说到底就是潮起朝落 人聚人散
+#+end_src
 ** 经典
 *** 离骚-屈原
 #+html: <details>
