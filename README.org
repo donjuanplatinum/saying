@@ -14,6 +14,10 @@
 #+begin_src
   信誓旦旦 终是不思其反;戮力同心 终是本同末离
 #+end_src
+
+#+begin_src
+  秉忠贞之诚,守退让之实
+#+end_src
 ** 经典
 *** 离骚-屈原
 #+html: <details>
